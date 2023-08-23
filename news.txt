@@ -1,2 +1,2 @@
-Просто новости для лаунчера Rusty Forge
-12345678910 -=32-42085409234753047t0tj0er9ut98ert98q34709c347098vj09t7jv098nct098ernyt09e4mc034m956937d964f5034860nh98enryp
+Бета версия лаунчера Rusty Forge. Запускать надо из папки WOW, где лежит Wow.exe
+Beta version of the Rusty Forge launcher. You need to run from the WOW folder, where Wow.exe is located
