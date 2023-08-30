@@ -1,2 +1,2 @@
-Бета версия лаунчера Rusty Forge. Запускать надо из папки WOW, где лежит Wow.exe
-Beta version of the Rusty Forge launcher. You need to run from the WOW folder, where Wow.exe is located
+Это не должно быть видно, перекачайте лаунчер
+It should not be visible, redownload the launcher
